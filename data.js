@@ -25,13 +25,13 @@ const data = {
             {
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie (login, functions, result)",
-                "href": "./assignments/assignment1/documents/inspiratieboek_LisaTheeiss.pdf",
+                "href": "./assignments/assignment1/documents/inspiratieboek_LisaTheiss.pdf",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment1/documents/UX_1AVDa_Lisa_Theiss_O1",
+                "href": "./assignments/assignment1/documents/Lisa_Theiss_Assignment1.xd",
             },
             {
                 "text": "Adobe XD Prototype",
