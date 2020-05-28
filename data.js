@@ -31,12 +31,12 @@ const data = {
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment1/documents/Lisa_Theiss_Assignment1.xd",
+                "href": "./assignments/assignment1/documents/Lisa_Theiss_AssignmentONE.xd",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/60372083-3904-47d6-67fd-1f04aef9d6f9-1606/",
+                "href": "https://xd.adobe.com/view/da60a112-880e-4482-489c-0fb41e6edb1b-ac51/",
                 "target": "_blank"
             }
         ]
