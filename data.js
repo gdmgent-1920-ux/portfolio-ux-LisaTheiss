@@ -77,18 +77,18 @@ const data = {
     {
         "text": "Researchdocument",
         "title": "Mijn PDF met research",
-        "href": "./assignments/assignment3/documents/a3-research.pdf",
+        "href": "./assignments/assignment3/documents/3_Compressed_Researchdocument_Lisa_Theiss.pdf",
         "target": "_blank"
     },
     {
         "text": "Adobe XD (met Wireframes)",
         "title": "Mijn Adobe XD document met de wireframes van mijn applicatie",
-        "href": "./assignments/assignment3/documents/a3-wireframes.xd",
+        "href": "./assignments/assignment3/documents/3_Wireframes_Lisa_Theiss.xd",
     },
     {
         "text": "Adobe XD (met Visual Designs)",
         "title": "Mijn Adobe XD document voor de visual designs van mijn applicatie",
-        "href": "./assignments/assignment3/documents/a3-visual-designs.xd",
+        "href": "./assignments/assignment3/documents/3_VisualDesigns_Lisa_Theiss.xd",
     },
     {
         "text": "Website",
