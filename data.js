@@ -31,7 +31,7 @@ const data = {
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment1/documents/Lisa_Theiss_AssignmentONE.xd",
+                "href": "./assignments/assignment1/documents/Lisa_Theiss_Assignment1.xd",
             },
             {
                 "text": "Adobe XD Prototype",
